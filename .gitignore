@@ -1,0 +1,11 @@
+# Obsidian
+.obsidian/
+*.obs
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Temp
+*.tmp
+~$*
