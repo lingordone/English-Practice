@@ -1,29 +1,29 @@
 ---
-total_checkins: 2
-total_vocab: 10
-current_streak: 2
-longest_streak: 2
+total_checkins: 3
+total_vocab: 15
+current_streak: 3
+longest_streak: 3
 last_checkin_date: "2026-06-29"
-completed_scenarios: ["Day 1 - The Product Launch (产品上线)", "Day 2 - The Code Review (代码审查)"]
+completed_scenarios: ["Day 1 - The Product Launch (产品上线)", "Day 2 - The Code Review (代码审查)", "Day 3 - The Daily Standup (每日站会)"]
 phase: 1
 week: 1
-day: 2
+day: 3
 ---
 
 # 📊 英语学习打卡追踪
 
 ## 当前进度
-- **已打卡**: 2 天
-- **连续打卡**: 2 天
-- **最长连续**: 2 天
-- **累计词汇**: 10 个
+- **已打卡**: 3 天
+- **连续打卡**: 3 天
+- **最长连续**: 3 天
+- **累计词汇**: 15 个
 - **当前阶段**: Phase 1 · Week 1
 
 ## 日历
 
 | 周一 | 周二 | 周三 | 周四 | 周五 | 周六 | 周日 |
 |-----|-----|-----|-----|-----|-----|-----|
-| ✅ Day 2 | | | | | ✅ Day 1 | |
+| ✅ Day 3 | | | | | ✅ Day 1 | ✅ Day 2 |
 
 ## 已完成场景
 
@@ -31,6 +31,7 @@ day: 2
 |-----|------|------|------|------|
 | 1 | 2026-06-28 | 🚀 The Product Launch (产品上线) | deploy, debug, compile, optimize, integrate | Present Perfect Tense |
 | 2 | 2026-06-29 | 🔍 The Code Review (代码审查) | refactor, review, approve, merge, revert | Passive Voice (被动语态) |
+| 3 | 2026-06-29 | 📋 The Daily Standup (每日站会) | sync, clarify, assign, escalate, prioritize | Modal Verbs (情态动词) |
 
 ## 打卡规则
 - 每次完成课后更新

@@ -22,12 +22,12 @@ tags: [english, vocabulary, word-bank]
 - **merge** /mɜːrdʒ/ — 合并 (将分支代码合并)
 - **revert** /rɪˈvɜːrt/ — 回退 (撤销更改)
 
-## Block 3: 项目沟通
-- **sync** /sɪŋk/ — 同步 (对齐信息与进度)
-- **clarify** /ˈklærɪfaɪ/ — 澄清 (说清楚)
-- **assign** /əˈsaɪn/ — 分配 (分配任务)
-- **escalate** /ˈeskəleɪt/ — 升级 (上报问题)
-- **prioritize** /praɪˈɒrətaɪz/ — 确定优先级
+## Block 3: 项目沟通 ✅
+- ✅ **sync** /sɪŋk/ — 同步 (对齐信息与进度)
+- ✅ **clarify** /ˈklærɪfaɪ/ — 澄清 (说清楚)
+- ✅ **assign** /əˈsaɪn/ — 分配 (分配任务)
+- ✅ **escalate** /ˈeskəleɪt/ — 升级 (上报问题)
+- ✅ **prioritize** /praɪˈɒrətaɪz/ — 确定优先级
 
 ## Block 4: 故障与修复
 - **crash** /kræʃ/ — 崩溃 (程序非正常退出)

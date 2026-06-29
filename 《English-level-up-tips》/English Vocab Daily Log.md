@@ -71,14 +71,6 @@ scenario_icon: "🚀"
 5. git add + commit + push ✅
 6. 推送到 Telegram ✅
 
-### 学生说「开练」时
-当学生回复"开练"或"start"时:
-1. 核实输入：学生用每个词造句
-2. 跟读练习：TTS 读句子，学生跟读
-3. 角色扮演：模拟对话
-4. 自由造句：用 3 个词编故事
-5. 课后总结：整理错题 → 写入 Obsidian → git push
-
 ### 打卡更新
 - 已打卡天数 +1 ✅
 - 连续天数 +1 ✅
@@ -137,3 +129,64 @@ scenario_icon: "🔍"
   - *"Once I approve the changes, the branch can be merged."* — 被合并
 - 结构: Subject + be (is/am/are/was/were) + past participle + (by agent)
 - 注意: 被动语态在技术文档和正式沟通中非常常见，强调"什么事情被做了"而不强调"谁做的"
+
+### 打卡更新
+- 已打卡天数 +1 ✅
+- 连续天数 +1 ✅
+- 累计词汇 +5 ✅
+- 日历标记 Day 2 ✅
+- 进度追加：The Code Review ✅
+
+---
+week: 1
+day: 3
+vocab_done: false
+grammar_done: false
+words_today: 5
+words_total: 15
+streak: 3
+scenario_en: "The Daily Standup"
+scenario_cn: "每日站会"
+scenario_icon: "📋"
+---
+# Day 3 · Week 1 · Phase 1 · Beginner
+
+## Today's Scenario
+> *A tech lead and a developer are having their daily standup meeting. They sync on progress, clarify requirements, assign tasks, escalate a critical production bug, and prioritize the sprint backlog.*
+> *技术负责人和开发者正在进行每日站会。他们同步进度、澄清需求、分配任务、上报一个关键的生产环境 bug，并确定冲刺积压任务的优先级。*
+
+## Key Vocabulary
+1. **sync** /sɪŋk/ — 同步，对齐信息与进度
+2. **clarify** /ˈklærɪfaɪ/ — 澄清，说清楚
+3. **assign** /əˈsaɪn/ — 分配，指派任务
+4. **escalate** /ˈeskəleɪt/ — 升级，上报问题
+5. **prioritize** /praɪˈɒrətaɪz/ — 确定优先级
+
+## Useful Phrases
+- **sync on the progress** — 同步进度
+- **clarify the requirements** — 澄清需求
+- **assign the task** — 分配任务
+- **escalate the issue** — 上报问题
+- **prioritize the backlog** — 确定积压任务的优先级
+
+## Scenario Dialogue
+**Tech Lead:** Let's sync on yesterday's progress. What did you finish?
+**Developer:** I completed the login module refactoring. But I need to clarify the API specs for the new endpoint.
+**Tech Lead:** I'll assign that task to you. Please finish it by Thursday.
+**Developer:** Also, we have a production bug. Should I escalate it to the senior team?
+**Tech Lead:** Yes, escalate it immediately. It's blocking customer sign-ups.
+**Developer:** Got it. How should I prioritize my tasks — the bug or the new feature?
+**Tech Lead:** Prioritize the bug fix first. Then work on the feature.
+**Developer:** Understood. I'll sync with you again after I escalate the issue.
+**Tech Lead:** Good. Let's stay aligned and keep each other updated.
+
+## Grammar Focus
+- **Modal Verbs for Suggestions & Obligation (情态动词表示建议与义务)**
+  - **should** — 应该（表示建议）
+    - *"Should I escalate it to the senior team?"* — 我应该上报给高级团队吗？
+  - **let's + verb** — 让我们...（建议一起做某事）
+    - *"Let's sync on yesterday's progress."* — 让我们同步一下昨天的进度。
+  - **need to** — 必须（表示义务/必要性）
+    - *"I need to clarify the API specs."* — 我需要澄清 API 规格。
+- 结构: Subject + should/need to + base verb | Let's + base verb
+- 提示: should 是"建议"，语气较轻；need to 是"必须"，语气较强。let's 是 let us 的缩写，用于提议团队行动。
