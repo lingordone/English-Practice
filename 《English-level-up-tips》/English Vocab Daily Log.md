@@ -85,3 +85,55 @@ scenario_icon: "🚀"
 - 累计词汇 +5 ✅
 - 日历标记 Day 1 ✅
 - 进度追加：The Product Launch ✅
+
+---
+week: 1
+day: 2
+vocab_done: false
+grammar_done: false
+words_today: 5
+words_total: 10
+streak: 2
+scenario_en: "The Code Review"
+scenario_cn: "代码审查"
+scenario_icon: "🔍"
+---
+# Day 2 · Week 1 · Phase 1 · Beginner
+
+## Today's Scenario
+> *Sarah, a senior developer, and Tom, a junior developer, are going through a code review. Sarah reviews Tom's pull request, asking him to refactor messy code, fix a bug, and re-review before she can approve and merge. They also discuss what happens if they need to revert a bad change.*
+> *高级开发者 Sarah 和初级开发者 Tom 正在进行代码审查。Sarah 审阅 Tom 的 pull request，要求他重构混乱的代码、修复一个 bug 并重新审查，然后她才能批准和合并。他们还讨论了如果需要回退一个不好的更改该怎么做。*
+
+## Key Vocabulary
+1. **refactor** /ˌriːˈfæktər/ — 重构，改寫代码结构
+2. **review** /rɪˈvjuː/ — 审查，检视
+3. **approve** /əˈpruːv/ — 批准，同意
+4. **merge** /mɜːrdʒ/ — 合并（分支）
+5. **revert** /rɪˈvɜːrt/ — 回退，恢复原状
+
+## Useful Phrases
+- **refactor the code** — 重构代码
+- **review the pull request** — 审查 pull request
+- **approve the changes** — 批准更改
+- **merge the branch** — 合并分支
+- **revert to the previous version** — 回退到上一个版本
+
+## Scenario Dialogue
+**Sarah:** I've reviewed your pull request. The login module needs to be refactored — it's too complex.
+**Tom:** Got it. I'll refactor that module and split it into smaller functions.
+**Sarah:** Can you also review the error handling logic again? I noticed a potential bug there.
+**Tom:** Sure, I'll review it carefully and fix any issues I find.
+**Sarah:** Once I approve the changes, we can merge the branch into main.
+**Tom:** What if something goes wrong after we merge?
+**Sarah:** Then we'll revert the merge and go back to the previous stable version.
+**Tom:** How do I revert a merge commit properly?
+**Sarah:** Use "git revert -m 1" — it creates a new commit that undoes the merge.
+**Tom:** I see. Let me finish the refactoring first, then I'll request another review.
+**Sarah:** Sounds good. Once everything looks clean, I'll approve and we can merge.
+
+## Grammar Focus
+- **Passive Voice (被动语态)**: 使用 "be + 过去分词" 表示动作的承受者做主语。
+  - *"The login module needs to be refactored."* — 模块被重构（接受动作）
+  - *"Once I approve the changes, the branch can be merged."* — 被合并
+- 结构: Subject + be (is/am/are/was/were) + past participle + (by agent)
+- 注意: 被动语态在技术文档和正式沟通中非常常见，强调"什么事情被做了"而不强调"谁做的"
