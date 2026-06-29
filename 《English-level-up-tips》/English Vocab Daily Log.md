@@ -320,3 +320,81 @@ scenario_icon: "🔥"
 - 累计词汇 +5 ✅
 - 日历标记 Day 5 ✅
 - 进度追加：The Test Pipeline ✅
+
+---
+week: 1
+day: 6
+vocab_done: false
+grammar_done: false
+words_today: 5
+words_total: 30
+streak: 6
+scenario_en: "The Monitoring Alert"
+scenario_cn: "监控告警"
+scenario_icon: "🚨"
+---
+# Day 6 · Week 1 · Phase 1 · Beginner
+
+## Today's Scenario
+> *Alex, a backend developer, and Sam, a DevOps engineer, are configuring a new monitoring system. They discuss setting up alert thresholds, configuring notification channels, scheduling maintenance windows, triggering test alerts, and notifying the on-call team.*  
+> *后端开发者 Alex 和 DevOps 工程师 Sam 正在配置一个新的监控系统。他们讨论设置告警阈值、配置通知渠道、安排维护窗口、触发测试告警以及通知值班团队。*
+
+## Key Vocabulary
+1. **trigger** /ˈtrɪɡər/ — 触发（事件/警报）  
+   ![[audio/The Monitoring Alert/trigger.mp3]]
+2. **configure** /kənˈfɪɡər/ — 配置（设置参数）  
+   ![[audio/The Monitoring Alert/configure.mp3]]
+3. **schedule** /ˈʃɛdjuːl/ — 安排，排期（时间计划）  
+   ![[audio/The Monitoring Alert/schedule.mp3]]
+4. **notify** /ˈnəʊtɪfaɪ/ — 通知，告知  
+   ![[audio/The Monitoring Alert/notify.mp3]]
+5. **alert** /əˈlɜːrt/ — 警报，提醒  
+   ![[audio/The Monitoring Alert/alert.mp3]]
+
+## Useful Phrases
+- **trigger an alert** — 触发警报  
+  ![[audio/The Monitoring Alert/trigger an alert.mp3]]
+- **configure the system** — 配置系统  
+  ![[audio/The Monitoring Alert/configure the system.mp3]]
+- **schedule a maintenance window** — 安排维护窗口  
+  ![[audio/The Monitoring Alert/schedule a maintenance window.mp3]]
+- **notify the on-call team** — 通知值班团队  
+  ![[audio/The Monitoring Alert/notify the on-call team.mp3]]
+- **set up an alert** — 设置告警  
+  ![[audio/The Monitoring Alert/set up an alert.mp3]]
+
+## Scenario Dialogue
+**Alex:** Sam, the new monitoring tool is installed. How do we configure the alert thresholds?  
+**Sam:** I'll configure CPU alerts at 90% and memory alerts at 85%. What do you think?  
+**Alex:** Sounds good. Should we also set up alerts for disk usage?  
+**Sam:** Yes. I'll schedule a disk check every hour. If it goes over 90%, the system triggers an alert.  
+**Alex:** Who should we notify when an alert fires?  
+**Sam:** The system can notify the on-call team through Slack and email. Let me configure that now.  
+**Alex:** Also, we need to schedule a maintenance window for this weekend.  
+**Sam:** Done. I've scheduled it for Saturday at 2 AM. Now let me trigger a test alert to verify our configuration.  
+**Alex:** Good idea. If the test alert fires correctly, we'll know the thresholds are properly configured.  
+**Sam:** Test alert sent! You should have received a notification. Everything looks good.  
+
+## Grammar Focus
+- **Imperatives for Instructions (祈使句用于指令)**: 祈使句用于发出直接指令或命令，在运维手册和技术文档中非常常见。结构为动词原形 + 宾语/补语，没有主语。  
+  - *"Configure the alert threshold at 90%."* — 将告警阈值配置为 90%。  
+  - *"Notify the on-call team immediately."* — 立即通知值班团队。  
+- 软化语气：在句首加 "please"（Please configure the system.）。用 "let's"（Let's trigger a test alert.）表示协作行动。
+- 否定祈使句：用 "Don't"（Don't forget to schedule the maintenance window.）
+
+## 学习流程
+
+### 自动生成
+1. 从 vocab-bank.md 选 5 个新词 ✅ trigger, configure, schedule, notify, alert
+2. 编场景故事 + 10 句对话 + 语法点 ✅ The Monitoring Alert, Imperatives
+3. 生成 5 个单词 TTS + 5 个短语 TTS + 1 段整段对话 TTS ✅
+4. 写入 Obsidian ✅
+5. git add + commit + push ✅
+6. 推送到 Telegram ✅
+
+### 打卡更新
+- 已打卡天数 +1 ✅
+- 连续天数 +1 ✅
+- 累计词汇 +5 ✅
+- 日历标记 Day 6 ✅
+- 进度追加：The Monitoring Alert ✅

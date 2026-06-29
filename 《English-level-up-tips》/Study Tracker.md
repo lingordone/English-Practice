@@ -1,47 +1,44 @@
-# 📊 Study Tracker — 英语学习打卡追踪
-
+---
+total_checkins: 6
+total_vocab: 30
+current_streak: 6
+longest_streak: 6
+last_checkin_date: "2026-06-29"
+completed_scenarios: ["Day 1 - The Product Launch (产品上线)", "Day 2 - The Code Review (代码审查)", "Day 3 - The Daily Standup (每日站会)", "Day 4 - The Production Incident (线上事故)", "Day 5 - The Test Pipeline (测试流水线)", "Day 6 - The Monitoring Alert (监控告警)"]
+phase: 1
+week: 1
+day: 6
 ---
 
-## Current Progress
+# 📊 英语学习打卡追踪
 
-| Field | Value |
-|-------|-------|
-| **Current Day** | 5 |
-| **Current Phase** | Phase 1 |
-| **Current Week** | Week 1 |
-| **Total Check-ins** | 5 |
-| **Total Vocabulary** | 25 |
-| **Current Streak** | 5 |
-| **Last Check-in Date** | 2026-06-29 |
+## 当前进度
+- **已打卡**: 6 天
+- **连续打卡**: 6 天
+- **最长连续**: 6 天
+- **累计词汇**: 30 个
+- **当前阶段**: Phase 1 · Week 1
 
----
+## 日历
 
-## 打卡日历 (June 2026)
-
-| Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+| 周一 | 周二 | 周三 | 周四 | 周五 | 周六 | 周日 |
 |-----|-----|-----|-----|-----|-----|-----|
-| 1   | 2   | 3   | 4   | 5   | 6   | 7   |
-| 8   | 9   | 10  | 11  | 12  | 13  | 14  |
-| 15  | 16  | 17  | 18  | 19  | 20  | 21  |
-| 22  | 23  | 24  | 25  | 26  | 27  | 28  |
-| 29 ✅ Day 4, Day 5 | 30  |     |     |     |     |     |
-
----
+| ✅ Day 3, Day 4, Day 5, Day 6 | | | | | ✅ Day 1 | ✅ Day 2 |
 
 ## 已完成场景
 
-|| Day | Scenario | Vocabulary |
-||-----|----------|------------|
-|| 1 | 🚀 The Product Launch | deploy, debug, compile, optimize, integrate |
-|| 2 | 🔍 The Code Review | refactor, review, approve, merge, revert |
-|| 3 | 📋 The Daily Standup | sync, clarify, assign, escalate, prioritize |
-|| 4 | 🔥 The Production Incident | crash, fix, patch, rollback, monitor |
-|| 5 | 🧪 The Test Pipeline | validate, reproduce, document, verify, automate |
+| Day | 日期 | 场景 | 词汇 | 语法 |
+|-----|------|------|------|------|
+| 1 | 2026-06-28 | 🚀 The Product Launch (产品上线) | deploy, debug, compile, optimize, integrate | Present Perfect Tense |
+| 2 | 2026-06-29 | 🔍 The Code Review (代码审查) | refactor, review, approve, merge, revert | Passive Voice (被动语态) |
+|| 3 | 2026-06-29 | 📋 The Daily Standup (每日站会) | sync, clarify, assign, escalate, prioritize | Modal Verbs (情态动词) |
+|| 4 | 2026-06-29 | 🔥 The Production Incident (线上事故) | crash, fix, patch, rollback, monitor | First Conditional (真实条件句) |
+|| 5 | 2026-06-29 | 🧪 The Test Pipeline (测试流水线) | validate, reproduce, document, verify, automate | Present Perfect vs Past Simple |
+|| 6 | 2026-06-29 | 🚨 The Monitoring Alert (监控告警) | trigger, configure, schedule, notify, alert | Imperatives (祈使句) |
 
----
-
-## Skills Tracking (Coming Soon)
-
----
-
-*Last updated: 2026-06-29*
+## 打卡规则
+- 每次完成课后更新
+- 连续打卡中断条件：超过 24 小时未学习
+- 每课学 5 个新词
+- 每 7 天进入下一周
+- 每 4 周进入下一阶段

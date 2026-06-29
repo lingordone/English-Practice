@@ -40,12 +40,12 @@ _每块 5 个词，每日使用一块。_
 - ✅ verify
 - ✅ automate
 
-## Block 6
-- trigger
-- configure
-- schedule
-- notify
-- alert
+## Block 6 ✅
+- ✅ trigger
+- ✅ configure
+- ✅ schedule
+- ✅ notify
+- ✅ alert
 
 ## Block 7
 - notify
@@ -54,28 +54,28 @@ _每块 5 个词，每日使用一块。_
 - trace
 - cache
 
-## Block 7
+## Block 8
 - encrypt
 - decrypt
 - authenticate
 - authorize
 - hash
 
-## Block 8
+## Block 9
 - backup
 - restore
 - migrate
 - provision
 - deprecate
 
-## Block 9
+## Block 10
 - contribute
 - commit
 - push
 - pull
 - stash
 
-## Block 10
+## Block 11
 - benchmark
 - profile
 - analyze
