@@ -249,4 +249,74 @@ scenario_icon: "🔥"
   - *"If we find the root cause, we can fix it quickly."* — 如果我们找到根本原因，就能快速修复。
   - *"If that doesn't work, we'll rollback."* — 如果那不起作用，我们就回滚。
 - 结构: If + Subject + present simple, Subject + will/can + base verb
-- 注意: if 从句用现在时（即使谈论未来），主句用 will/can/may
+|- 注意: if 从句用现在时（即使谈论未来），主句用 will/can/may
+
+|---
+|week: 1
+|day: 5
+|vocab_done: false
+|grammar_done: false
+|words_today: 5
+|words_total: 25
+|streak: 5
+|scenario_en: "The Test Pipeline"
+|scenario_cn: "测试流水线"
+|scenario_icon: "🧪"
+|---
+# Day 5 · Week 1 · Phase 1 · Beginner
+
+## Today's Scenario
+> *Maya, a QA engineer, and Leo, a developer, are debugging a failing CI/CD pipeline. The test suite is broken after the last merge. Maya asks Leo to validate the deployment, reproduce a flaky test, document test cases, verify the fix, and automate the testing process so the pipeline stays green.*  
+> *QA 工程师 Maya 和开发者 Leo 正在调试一条失败的 CI/CD 流水线。上次合并后测试套件出了问题。Maya 要求 Leo 验证部署、复现一个不稳定的测试、记录测试用例、核实修复方案，并自动化测试流程，确保流水线保持绿色。*
+
+## Key Vocabulary
+1. **validate** /ˈvælɪdeɪt/ — 验证，确认  
+2. **reproduce** /ˌriːprəˈdjuːs/ — 复现（Bug）  
+3. **document** /ˈdɒkjʊment/ — 记录，文档化  
+4. **verify** /ˈverɪfaɪ/ — 核实，检验  
+5. **automate** /ˈɔːtəmeɪt/ — 自动化  
+
+## Useful Phrases
+- **validate the deployment** — 验证部署  
+- **reproduce the bug** — 复现 Bug  
+- **document the test cases** — 记录测试用例  
+- **verify the fix** — 核实修复  
+- **automate the workflow** — 自动化工作流  
+
+## Scenario Dialogue
+**Maya:** Leo, the CI pipeline is failing. Did you validate the deployment before pushing?  
+**Leo:** I thought I did, but clearly something went wrong. Can you help me reproduce the failing test?  
+**Maya:** Sure. I ran the test suite locally and the login test is failing. Can you reproduce it on your machine?  
+**Leo:** Let me try... Yes, I can reproduce it. The issue is in the auth middleware.  
+**Maya:** Have you documented the test cases for this module? I can't find them anywhere.  
+**Leo:** Not yet — I know I should have. I'll document them right after I fix this bug.  
+**Maya:** Once you apply the fix, I'll verify it by running the full test suite.  
+**Leo:** Sounds good. And after that, let's automate this whole workflow so it doesn't break again.  
+**Maya:** Agreed. If we automate the validation step, the pipeline will catch issues before they reach production.  
+**Leo:** Perfect. I'll fix the bug first, document the tests, then we'll set up the automation together.  
+
+## Grammar Focus
+- **Present Perfect vs Past Simple (现在完成时 vs 一般过去时)**: 现在完成时强调过去动作与现在的关联；一般过去时强调动作发生在过去某个具体时间。  
+  - *"Did you validate the deployment before pushing?"* (一般过去时) — 询问过去某个具体时间点的动作  
+  - *"I thought I did, but clearly something went wrong."* (一般过去时) — 过去某个时刻的想法  
+  - *"Have you documented the test cases for this module?"* (现在完成时) — 询问至今是否已完成，强调现状  
+  - *"I haven't documented them yet. I know I should have."* (现在完成时) — 到现在还没做，强调对当前的影响  
+- 结构: Past Simple = Subject + V-ed (过去时); Present Perfect = Subject + have/has + V-ed (过去分词)  
+- 关键区别: 如果句子有具体过去时间 (yesterday, last week, when I pushed)，用一般过去时；如果没有具体时间，强调"到现在为止"，用现在完成时。
+
+## 学习流程
+
+### 自动生成
+1. 从 vocab-bank.md 选 5 个新词 ✅ validate, reproduce, document, verify, automate
+2. 编场景故事 + 10 句对话 + 语法点 ✅ The Test Pipeline, Present Perfect vs Past Simple
+3. 生成 5 个单词 TTS + 5 个短语 TTS + 1 段整段对话 TTS ✅
+4. 写入 Obsidian ✅
+5. git add + commit + push ✅
+6. 推送到 Telegram ✅
+
+### 打卡更新
+- 已打卡天数 +1 ✅
+- 连续天数 +1 ✅
+- 累计词汇 +5 ✅
+- 日历标记 Day 5 ✅
+- 进度追加：The Test Pipeline ✅

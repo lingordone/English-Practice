@@ -1,44 +1,114 @@
+# 📚 英语词汇银行 (Vocabulary Bank)
+
+_词汇来源：CET-4 / CET-6 / IELTS / 技术英语_
+_每块 5 个词，每日使用一块。_
+
 ---
-title: "Vocabulary Bank (技术工作英语)"
-author: "teacher profile"
-tags: [english, vocabulary, word-bank]
+
+## Block 1 ✅
+- ✅ deploy
+- ✅ debug
+- ✅ compile
+- ✅ optimize
+- ✅ integrate
+
+## Block 2 ✅
+- ✅ refactor
+- ✅ review
+- ✅ approve
+- ✅ merge
+- ✅ revert
+
+## Block 3 ✅
+- ✅ sync
+- ✅ clarify
+- ✅ assign
+- ✅ escalate
+- ✅ prioritize
+
+## Block 4 ✅
+- ✅ crash
+- ✅ fix
+- ✅ patch
+- ✅ rollback
+- ✅ monitor
+
+## Block 5 ✅
+- ✅ validate
+- ✅ reproduce
+- ✅ document
+- ✅ verify
+- ✅ automate
+
+## Block 6
+- trigger
+- configure
+- schedule
+- notify
+- alert
+
+## Block 7
+- notify
+- alert
+- log
+- trace
+- cache
+
+## Block 7
+- encrypt
+- decrypt
+- authenticate
+- authorize
+- hash
+
+## Block 8
+- backup
+- restore
+- migrate
+- provision
+- deprecate
+
+## Block 9
+- contribute
+- commit
+- push
+- pull
+- stash
+
+## Block 10
+- benchmark
+- profile
+- analyze
+- estimate
+- allocate
+
 ---
+_CET-4 / CET-6 核心词汇区域（后续补充）_
 
-# 📚 技术工作日常英语词库
+## Block A
+- achieve
+- benefit
+- challenge
+- devote
+- establish
 
-> 按主题分块，每课 5 词。已用词汇标记 √
+## Block B
+- generate
+- highlight
+- implement
+- justify
+- launch
 
-## Block 1: 开发流程 (Day 1 ✓)
-- ✅ deploy — 部署
-- ✅ debug — 调试
-- ✅ compile — 编译
-- ✅ optimize — 优化
-- ✅ integrate — 集成
+## Block C
+- maintain
+- negotiate
+- observe
+- participate
+- qualify
 
-## Block 2: 代码质量与审查 ✅
-- ✅ **refactor** /ˌriːˈfæktər/ — 重构 (重写代码结构而不改变功能)
-- ✅ **review** /rɪˈvjuː/ — 审查 (仔细检查代码或文档)
-- ✅ **approve** /əˈpruːv/ — 批准 (正式同意)
-- ✅ **merge** /mɜːrdʒ/ — 合并 (将分支代码合并)
-- ✅ **revert** /rɪˈvɜːrt/ — 回退 (撤销更改)
-
-## Block 3: 项目沟通 ✅
-- ✅ **sync** /sɪŋk/ — 同步 (对齐信息与进度)
-- ✅ **clarify** /ˈklærɪfaɪ/ — 澄清 (说清楚)
-- ✅ **assign** /əˈsaɪn/ — 分配 (分配任务)
-- ✅ **escalate** /ˈeskəleɪt/ — 升级 (上报问题)
-- ✅ **prioritize** /praɪˈɒrətaɪz/ — 确定优先级
-
-## Block 4: 故障与修复 ✅
-- ✅ **crash** /kræʃ/ — 崩溃 (程序非正常退出)
-- ✅ **fix** /fɪks/ — 修复 (修补问题)
-- ✅ **patch** /pætʃ/ — 补丁 (临时修复)
-- ✅ **rollback** /ˈrəʊlbæk/ — 回滚 (恢复到旧版本)
-- ✅ **monitor** /ˈmɒnɪtər/ — 监控 (持续观察系统状态)
-
-## Block 5: 协作与交付
-- **stakeholder** /ˈsteɪkhəʊldər/ — 利益相关者
-- **milestone** /ˈmaɪlstəʊn/ — 里程碑 (重要节点)
-- **deadline** /ˈdedlaɪn/ — 截止日期
-- **deliverable** /dɪˈlɪvərəbl/ — 可交付成果
-- **timeline** /ˈtaɪmlaɪn/ — 时间线
+## Block D
+- recognize
+- select
+- transfer
+- utilize
+- vanish
