@@ -197,8 +197,8 @@ scenario_icon: "📋"
 - 已打卡天数 +1 ✅
 - 连续天数 +1 ✅
 - 累计词汇 +5 ✅
-- 日历标记 Day 4 ✅
-- 进度追加：The Production Incident ✅
+- 日历标记 Day 3 ✅
+- 进度追加：The Daily Standup ✅
 
 ---
 week: 1
@@ -249,20 +249,27 @@ scenario_icon: "🔥"
   - *"If we find the root cause, we can fix it quickly."* — 如果我们找到根本原因，就能快速修复。
   - *"If that doesn't work, we'll rollback."* — 如果那不起作用，我们就回滚。
 - 结构: If + Subject + present simple, Subject + will/can + base verb
-|- 注意: if 从句用现在时（即使谈论未来），主句用 will/can/may
+- 注意: if 从句用现在时（即使谈论未来），主句用 will/can/may
 
-|---
-|week: 1
-|day: 5
-|vocab_done: false
-|grammar_done: false
-|words_today: 5
-|words_total: 25
-|streak: 5
-|scenario_en: "The Test Pipeline"
-|scenario_cn: "测试流水线"
-|scenario_icon: "🧪"
-|---
+### 打卡更新
+- 已打卡天数 +1 ✅
+- 连续天数 +1 ✅
+- 累计词汇 +5 ✅
+- 日历标记 Day 4 ✅
+- 进度追加：The Production Incident ✅
+
+---
+week: 1
+day: 5
+vocab_done: false
+grammar_done: false
+words_today: 5
+words_total: 25
+streak: 5
+scenario_en: "The Test Pipeline"
+scenario_cn: "测试流水线"
+scenario_icon: "🧪"
+---
 # Day 5 · Week 1 · Phase 1 · Beginner
 
 ## Today's Scenario
@@ -398,3 +405,92 @@ scenario_icon: "🚨"
 - 累计词汇 +5 ✅
 - 日历标记 Day 6 ✅
 - 进度追加：The Monitoring Alert ✅
+
+---
+week: 1
+day: 7
+vocab_done: false
+grammar_done: false
+words_today: 5
+words_total: 35
+streak: 7
+scenario_en: "The Git Hotfix"
+scenario_cn: "Git 热修复"
+scenario_icon: "🔀"
+---
+# Day 7 · Week 1 · Phase 1 · Beginner
+
+## Today's Scenario
+> *Emma, a backend developer, is working on a new feature when a critical production bug is reported. She needs to stash her work-in-progress, create a hotfix branch, commit the fix, fetch the latest changes, and rebase her feature branch. Her tech lead Jason guides her through the process.*  
+> *后端开发者 Emma 正在开发一个新功能，突然收到一个关键的生产环境 bug 报告。她需要暂存未完成的工作、创建热修复分支、提交修复、拉取最新变更，然后变基她的功能分支。技术负责人 Jason 指导她完成整个过程。*
+
+## Key Vocabulary
+1. **commit** /kəˈmɪt/ — 提交（代码到版本控制）
+   ![[audio/The Git Hotfix/commit.mp3]]
+2. **branch** /bræntʃ/ — 分支（在版本控制中创建/切换分支）
+   ![[audio/The Git Hotfix/branch.mp3]]
+3. **stash** /stæʃ/ — 暂存（临时保存未完成的工作）
+   ![[audio/The Git Hotfix/stash.mp3]]
+4. **fetch** /fetʃ/ — 拉取（从远程仓库获取更新）
+   ![[audio/The Git Hotfix/fetch.mp3]]
+5. **rebase** /rɪˈbeɪs/ — 变基（重写提交历史）
+   ![[audio/The Git Hotfix/rebase.mp3]]
+
+## Useful Phrases
+- **commit the changes** — 提交更改
+  ![[audio/The Git Hotfix/commit the changes.mp3]]
+- **create a new branch** — 创建新分支
+  ![[audio/The Git Hotfix/create a new branch.mp3]]
+- **stash the work-in-progress** — 暂存进行中的工作
+  ![[audio/The Git Hotfix/stash the work-in-progress.mp3]]
+- **fetch the latest updates** — 拉取最新更新
+  ![[audio/The Git Hotfix/fetch the latest updates.mp3]]
+- **rebase onto main** — 变基到主分支
+  ![[audio/The Git Hotfix/rebase onto main.mp3]]
+
+## Scenario Dialogue
+**Jason:** Emma, we have a critical bug in production. Can you stop what you're working on?
+
+**Emma:** Sure, but I have uncommitted changes in my feature branch. Should I commit them first?
+
+**Jason:** No, just stash your work-in-progress. Then create a new branch for the hotfix.
+
+**Emma:** Got it. I'll stash the changes and create a hotfix branch off main.
+
+**Jason:** Once you find the fix, commit it and push the branch for review.
+
+**Emma:** What if I made a mess with my feature branch after the hotfix?
+
+**Jason:** If you fetched the latest main and rebased your feature branch onto it, the history would stay clean.
+
+**Emma:** I see. So after I commit the hotfix, I should fetch and rebase my feature branch?
+
+**Jason:** Exactly. If you rebased instead of merging, the commit history would be much cleaner.
+
+**Emma:** Makes sense. Let me stash my work, fix the bug, commit it, then rebase my feature branch.
+
+**Jason:** Perfect. That's the Git way!
+
+## Grammar Focus
+- **Second Conditional (虚拟条件句 — if + 过去时, would + 动词原形)**: 用于讨论与现实相反或不太可能发生的情况。在讨论"要是...就好了"或"假如...会怎样"的场景中常用。
+  - *"If you rebased instead of merging, the commit history would be much cleaner."* — 如果你用变基而不是合并，提交历史会干净得多。（暗示他还没做）
+  - *"What if I made a mess with my feature branch?"* — 如果我把功能分支搞乱了怎么办？（假设可能发生但尚未发生的情况）
+- 结构: If + Subject + past simple, Subject + would/could + base verb
+- 注意: 第一条件句 (if + 现在时) 用于"很可能发生"的情况；第二条件句 (if + 过去时) 用于"不太可能或假设"的情况。Git 场景中第二条件句常用于提建议——"如果你做X，结果就会更好"（一种更礼貌的建议方式）。
+
+## 学习流程
+
+### 自动生成
+1. 从 vocab-bank.md 选 5 个新词 ✅ commit, branch, stash, fetch, rebase
+2. 编场景故事 + 10 句对话 + 语法点 ✅ The Git Hotfix, Second Conditional
+3. 生成 5 个单词 TTS + 5 个短语 TTS + 1 段整段对话 TTS ✅
+4. 写入 Obsidian ✅
+5. git add + commit + push ✅
+6. 推送到 Telegram ✅
+
+### 打卡更新
+- 已打卡天数 +1 ✅
+- 连续天数 +1 ✅
+- 累计词汇 +5 ✅
+- 日历标记 Day 7 ✅
+- 进度追加：The Git Hotfix ✅
