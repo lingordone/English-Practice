@@ -190,3 +190,63 @@ scenario_icon: "📋"
     - *"I need to clarify the API specs."* — 我需要澄清 API 规格。
 - 结构: Subject + should/need to + base verb | Let's + base verb
 - 提示: should 是"建议"，语气较轻；need to 是"必须"，语气较强。let's 是 let us 的缩写，用于提议团队行动。
+
+---
+
+## 打卡更新
+- 已打卡天数 +1 ✅
+- 连续天数 +1 ✅
+- 累计词汇 +5 ✅
+- 日历标记 Day 4 ✅
+- 进度追加：The Production Incident ✅
+
+---
+week: 1
+day: 4
+vocab_done: false
+grammar_done: false
+words_today: 5
+words_total: 20
+streak: 4
+scenario_en: "The Production Incident"
+scenario_cn: "线上事故"
+scenario_icon: "🔥"
+---
+# Day 4 · Week 1 · Phase 1 · Beginner
+
+## Today's Scenario
+> *A backend developer gets paged at 2 AM — the production server keeps crashing. A DevOps engineer helps them diagnose the crash, apply a hotfix, patch the vulnerability, consider a rollback, and set up monitoring to prevent future incidents.*  
+> *一位后端开发人员在凌晨 2 点被叫醒——生产服务器不停崩溃。DevOps 工程师帮助他们诊断崩溃、应用热修复、打补丁、考虑回滚方案，并设置监控以防止未来事故。*
+
+## Key Vocabulary
+1. **crash** /kræʃ/ — 崩溃（程序非正常退出）
+2. **fix** /fɪks/ — 修复（修补问题）
+3. **patch** /pætʃ/ — 补丁（临时修复）
+4. **rollback** /ˈrəʊlbæk/ — 回滚（恢复到旧版本）
+5. **monitor** /ˈmɒnɪtər/ — 监控（持续观察系统状态）
+
+## Useful Phrases
+- **the server crashed** — 服务器崩溃了
+- **apply a hotfix** — 应用热修复
+- **patch the vulnerability** — 打补丁修复漏洞
+- **rollback to the previous version** — 回滚到上一个版本
+- **monitor the system in real-time** — 实时监控系统
+
+## Scenario Dialogue
+**DevOps:** Jordan, I see the production server just crashed. What happened?
+**Jordan:** I'm not sure yet. The app was running fine an hour ago, then it suddenly crashed.
+**DevOps:** Can you check the logs? If we find the root cause, we can fix it quickly.
+**Jordan:** Looking at the logs now... It looks like a memory leak in the new API endpoint.
+**DevOps:** Do we have a patch ready, or should we rollback to the previous version?
+**Jordan:** I'll apply a temporary patch to stop the memory leak. If that doesn't work, we'll rollback.
+**DevOps:** Good plan. After you apply the patch, I'll monitor the server closely for 30 minutes.
+**Jordan:** Sounds good. I'll also set up an alert so we get notified before it crashes again.
+**DevOps:** Once everything is stable, let's add better monitoring to catch memory leaks early.
+**Jordan:** Agreed. No more 2 AM wake-up calls after this!
+
+## Grammar Focus
+- **First Conditional (真实条件句 — if + 现在时, will + 动词原形)**: 表示在某个条件下很可能发生的结果。在技术场景中非常常用——"如果X发生，我们就做Y"。
+  - *"If we find the root cause, we can fix it quickly."* — 如果我们找到根本原因，就能快速修复。
+  - *"If that doesn't work, we'll rollback."* — 如果那不起作用，我们就回滚。
+- 结构: If + Subject + present simple, Subject + will/can + base verb
+- 注意: if 从句用现在时（即使谈论未来），主句用 will/can/may

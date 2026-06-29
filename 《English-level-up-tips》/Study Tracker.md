@@ -1,13 +1,13 @@
 ---
-total_checkins: 3
-total_vocab: 15
-current_streak: 3
-longest_streak: 3
+total_checkins: 4
+total_vocab: 20
+current_streak: 4
+longest_streak: 4
 last_checkin_date: "2026-06-29"
-completed_scenarios: ["Day 1 - The Product Launch (产品上线)", "Day 2 - The Code Review (代码审查)", "Day 3 - The Daily Standup (每日站会)"]
+completed_scenarios: ["Day 1 - The Product Launch (产品上线)", "Day 2 - The Code Review (代码审查)", "Day 3 - The Daily Standup (每日站会)", "Day 4 - The Production Incident (线上事故)"]
 phase: 1
 week: 1
-day: 3
+day: 4
 ---
 
 # 📊 英语学习打卡追踪
@@ -23,7 +23,7 @@ day: 3
 
 | 周一 | 周二 | 周三 | 周四 | 周五 | 周六 | 周日 |
 |-----|-----|-----|-----|-----|-----|-----|
-| ✅ Day 3 | | | | | ✅ Day 1 | ✅ Day 2 |
+| ✅ Day 3, Day 4 | | | | | ✅ Day 1 | ✅ Day 2 |
 
 ## 已完成场景
 
@@ -31,7 +31,8 @@ day: 3
 |-----|------|------|------|------|
 | 1 | 2026-06-28 | 🚀 The Product Launch (产品上线) | deploy, debug, compile, optimize, integrate | Present Perfect Tense |
 | 2 | 2026-06-29 | 🔍 The Code Review (代码审查) | refactor, review, approve, merge, revert | Passive Voice (被动语态) |
-| 3 | 2026-06-29 | 📋 The Daily Standup (每日站会) | sync, clarify, assign, escalate, prioritize | Modal Verbs (情态动词) |
+|| 3 | 2026-06-29 | 📋 The Daily Standup (每日站会) | sync, clarify, assign, escalate, prioritize | Modal Verbs (情态动词) |
+|| 4 | 2026-06-29 | 🔥 The Production Incident (线上事故) | crash, fix, patch, rollback, monitor | First Conditional (真实条件句) |
 
 ## 打卡规则
 - 每次完成课后更新
