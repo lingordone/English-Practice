@@ -1,9 +1,9 @@
 ---
-total_checkins: 7
-total_vocab: 35
-current_streak: 7
-longest_streak: 7
-last_checkin_date: "2026-06-29"
+total_checkins: 8
+total_vocab: 40
+current_streak: 8
+longest_streak: 8
+last_checkin_date: "2026-06-30"
 completed_scenarios:
   - "Day 1 - The Product Launch 🚀"
   - "Day 2 - The Code Review 🔍"
@@ -12,9 +12,10 @@ completed_scenarios:
   - "Day 5 - The Test Pipeline 🧪"
   - "Day 6 - The Monitoring Alert 🚨"
   - "Day 7 - The Git Hotfix 🔀"
+  - "Day 8 - The Performance Investigation 🔎"
 phase: 1
-week: 1
-day: 7
+week: 2
+day: 8
 ---
 
 # 英语学习看板
@@ -22,8 +23,8 @@ day: 7
 ## 今日课程
 | | 今日课程 | |
 |---|---|---|
-| 已打卡 | 7 | 7天 |
-| | | 35词 |
+| 已打卡 | 8 | 8天 |
+| | | 40词 |
 | | | 100% |
 
 ## 学习日历
@@ -34,7 +35,7 @@ day: 7
 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
 | 15 | 16 | 17 | 18 | 19 | 20 | 21 |
 | 22 | 23 | 24 | 25 | 26 | 27 | ✅ Day 1 |
-| ✅ Day 2<br>✅ Day 3<br>✅ Day 4<br>✅ Day 5<br>✅ Day 6<br>✅ Day 7 | · | · | · | · | · | · |
+| ✅ Day 2<br>✅ Day 3<br>✅ Day 4<br>✅ Day 5<br>✅ Day 6<br>✅ Day 7 | ✅ Day 8 | · | · | · | · | · |
 
 ✅打卡 ❌缺勤 ·未开始
 
@@ -49,3 +50,4 @@ day: 7
 || Day 5 | 2026-06-29 | The Test Pipeline 🧪 | validate, reproduce, document, verify, automate | Present Perfect vs Past Simple |
 || Day 6 | 2026-06-29 | The Monitoring Alert 🚨 | trigger, configure, schedule, notify, alert | Imperatives |
 || Day 7 | 2026-06-29 | The Git Hotfix 🔀 | commit, branch, stash, fetch, rebase | Second Conditional |
+||| Day 8 | 2026-06-30 | The Performance Investigation 🔎 | notify, alert, log, trace, cache | Present Continuous Tense |

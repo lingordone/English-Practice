@@ -494,3 +494,83 @@ scenario_icon: "🔀"
 - 累计词汇 +5 ✅
 - 日历标记 Day 7 ✅
 - 进度追加：The Git Hotfix ✅
+
+---
+week: 2
+day: 8
+vocab_done: false
+grammar_done: false
+words_today: 5
+words_total: 40
+streak: 8
+scenario_en: "The Performance Investigation"
+scenario_cn: "性能排查"
+scenario_icon: "🔎"
+---
+# Day 8 · Week 2 · Phase 1 · Beginner
+
+## Today's Scenario
+> *Lisa, a backend developer, and Mike, a DevOps engineer, are investigating why the API response time has suddenly become very slow. Mike checks the application logs, traces user requests through the system, discovers a caching issue, and sets up alerts so the team gets notified next time.*  
+> *后端开发者 Lisa 和 DevOps 工程师 Mike 正在排查 API 响应时间突然变慢的原因。Mike 检查应用日志，追踪用户请求在系统中的路径，发现缓存问题，并设置告警以便下次团队能及时收到通知。*
+
+## Key Vocabulary
+1. **notify** /ˈnoʊtɪfaɪ/ — 通知，告知  
+   ![[audio/The Performance Investigation/notify.mp3]]
+2. **alert** /əˈlɜːrt/ — 警报，提醒  
+   ![[audio/The Performance Investigation/alert.mp3]]
+3. **log** /lɒɡ/ — 日志；记录日志  
+   ![[audio/The Performance Investigation/log.mp3]]
+4. **trace** /treɪs/ — 追踪（请求路径）  
+   ![[audio/The Performance Investigation/trace.mp3]]
+5. **cache** /kæʃ/ — 缓存  
+   ![[audio/The Performance Investigation/cache.mp3]]
+
+## Useful Phrases
+- **notify the team** — 通知团队  
+  ![[audio/The Performance Investigation/notify the team.mp3]]
+- **trigger an alert** — 触发警报  
+  ![[audio/The Performance Investigation/trigger an alert.mp3]]
+- **check the logs** — 查看日志  
+  ![[audio/The Performance Investigation/check the logs.mp3]]
+- **trace the request** — 追踪请求  
+  ![[audio/The Performance Investigation/trace the request.mp3]]
+- **clear the cache** — 清除缓存  
+  ![[audio/The Performance Investigation/clear the cache.mp3]]
+
+## Scenario Dialogue
+**Lisa:** Mike, the API response time is really slow. Are you investigating?
+
+**Mike:** Yes, I'm checking the logs right now. I'm tracing a user request through the system.
+
+**Lisa:** What are you finding? Is the database the bottleneck?
+
+**Mike:** No, the database looks fine. I'm tracing each API call and I see it's hitting the disk on every request.
+
+**Lisa:** So the cache isn't working! We should be caching those frequent queries.
+
+**Mike:** Exactly. The cache keeps clearing itself every few minutes.
+
+**Lisa:** The system didn't notify us about this. Why wasn't there an alert?
+
+**Mike:** We never configured an alert for cache failures. I'm setting one up now.
+
+**Lisa:** Good. I'm fixing the cache configuration while you do that.
+
+**Mike:** Done! Now if the cache fails again, the system will trigger an alert and notify the on-call team. I'm also adding more log details for future investigations.
+
+## Grammar Focus
+- **Present Continuous Tense (现在进行时)** — 用于描述此刻正在进行的动作。在排查问题、实时协作场景中非常常用。
+  - *"I'm checking the logs right now."* — 我正在查看日志（此刻正在进行）
+  - *"I'm tracing each API call through the system."* — 我正在追踪每个 API 调用在系统中的路径
+  - *"The cache keeps clearing itself every few minutes."* — 缓存每几分钟就自动清除一次（持续发生的情况）
+- 结构: Subject + am/is/are + verb-ing (现在分词)
+- 注意: 现在进行时也可以表示"持续重复的动作"——"The cache keeps clearing" 暗示这个问题反复发生。
+- 时间标志词: now, right now, at the moment, currently, these days
+
+### 打卡更新
+- 已打卡天数 +1 ✅
+- 连续天数 +1 ✅
+- 累计词汇 +5 ✅
+- 日历标记 Day 8 ✅
+- 进度追加：The Performance Investigation ✅
+
