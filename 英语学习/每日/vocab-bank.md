@@ -1,87 +1,87 @@
-# 英语词库
+# 英语词库（初中基础）
 
 5个词一组，按主题分块。每个 Block 用完后在标题前加 ✅。
 
-## ✅ Block 1: Development Workflow (Day 1)
-- deploy ✅
-- debug ✅
-- compile ✅
-- optimize ✅
-- integrate ✅
+## Block 1: Greetings & Introductions
+- hello
+- good
+- morning
+- name
+- friend
 
-## Block 2: Code Quality & Review
-- refactor
-- review
-- approve
-- merge
-- revert
+## Block 2: Daily Life
+- eat
+- drink
+- sleep
+- read
+- write
 
-## Block 3: Project Communication
-- clarify
-- confirm
-- propose
-- prioritize
-- escalate
+## Block 3: Family
+- mother
+- father
+- sister
+- brother
+- home
 
-## Block 4: Bugs & Fixes
-- reproduce
-- diagnose
-- patch
-- validate
-- mitigate
+## Block 4: Numbers & Time
+- one
+- two
+- three
+- four
+- five
 
-## Block 5: Testing & Validation
-- assert
-- verify
-- simulate
-- benchmark
-- audit
+## Block 5: School & Study
+- book
+- pen
+- desk
+- teacher
+- student
 
-## Block 6: Notifications & Config
-- trigger
-- notify
-- configure
-- toggle
-- override
+## Block 6: Colors & Shapes
+- red
+- blue
+- green
+- white
+- black
 
-## Block 7: Git Collaboration
-- branch
-- rebase
-- stash
-- cherry-pick
-- squash
+## Block 7: Weather & Nature
+- sun
+- rain
+- wind
+- snow
+- cloud
 
-## Block 8: Performance & Analysis
-- profile
-- monitor
-- throughput
-- latency
-- bottleneck
+## Block 8: Food & Drinks
+- rice
+- bread
+- milk
+- water
+- apple
 
-## Block 9: Security & Access Control
-- authenticate
-- authorize
-- encrypt
-- sanitize
-- whitelist
+## Block 9: Body & Health
+- head
+- hand
+- eye
+- ear
+- mouth
 
-## Block 10: Infrastructure & Ops
-- provision
-- migrate
-- scale
-- replicate
-- failover
+## Block 10: Places
+- school
+- park
+- shop
+- hospital
+- station
 
-## Block 11: API & Integration
-- endpoint
-- serialize
-- parse
-- route
-- throttle
+## Block 11: Actions
+- run
+- walk
+- jump
+- sit
+- stand
 
-## Block 12: Database & Storage
-- index
-- query
-- migrate
-- cache
-- shard
+## Block 12: Feelings
+- happy
+- sad
+- angry
+- tired
+- hungry
