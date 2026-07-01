@@ -2,12 +2,12 @@
 
 5个词一组，按主题分块。每个 Block 用完后在标题前加 ✅。
 
-## Block 1: Development Workflow
-- deploy
-- debug
-- compile
-- optimize
-- integrate
+## ✅ Block 1: Development Workflow (Day 1)
+- deploy ✅
+- debug ✅
+- compile ✅
+- optimize ✅
+- integrate ✅
 
 ## Block 2: Code Quality & Review
 - refactor
