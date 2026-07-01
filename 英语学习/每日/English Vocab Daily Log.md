@@ -11,7 +11,7 @@ scenario_cn: "深夜紧急部署"
 scenario_icon: "🔥"
 ---
 
-# Day 1 · Week 1 · Phase 1 · Beginner
+# 2026-07-01 · Week 1 · Day 1 · Phase 1 · Beginner
 
 ## Today's Scenario
 > *It's 2 AM and a critical bug just hit production. The team needs to deploy a hotfix — fast.*  
@@ -30,7 +30,7 @@ scenario_icon: "🔥"
 
 ### Pronunciation
 /dɪˈplɔɪ/
-![[audio/深夜紧急部署/deploy.mp3]]
+![[深夜紧急部署/deploy.mp3]]
 
 ### Meaning
 部署，发布 (verb)
@@ -49,9 +49,9 @@ scenario_icon: "🔥"
 
 ### Example Sentences
 1. *"We need to deploy the hotfix to production before the morning."* — 我们必须在早上之前把热修复部署到生产环境。
-   ![[audio/深夜紧急部署/deploy_ex1.mp3]]
+   ![[深夜紧急部署/deploy_ex1.mp3]]
 2. *"The team decided to deploy the new feature after passing all tests."* — 团队决定在所有测试通过后发布新功能。
-   ![[audio/深夜紧急部署/deploy_ex2.mp3]]
+   ![[深夜紧急部署/deploy_ex2.mp3]]
 
 ### Dialogue
 **A:** The boss just called — we have to deploy the fix tonight.  
@@ -71,7 +71,7 @@ scenario_icon: "🔥"
 
 ### Shadowing Sentence
 > *"We need to deploy the hotfix to production before the morning."*  
-> ![[audio/深夜紧急部署/deploy_shadow.mp3]]
+> ![[深夜紧急部署/deploy_shadow.mp3]]
 
 ---
 
@@ -79,7 +79,7 @@ scenario_icon: "🔥"
 
 ### Pronunciation
 /ˌdiːˈbʌɡ/
-![[audio/深夜紧急部署/debug.mp3]]
+![[深夜紧急部署/debug.mp3]]
 
 ### Meaning
 调试，排错 (verb)
@@ -98,9 +98,9 @@ scenario_icon: "🔥"
 
 ### Example Sentences
 1. *"I spent three hours debugging the null pointer exception."* — 我花了三个小时调试那个空指针异常。
-   ![[audio/深夜紧急部署/debug_ex1.mp3]]
+   ![[深夜紧急部署/debug_ex1.mp3]]
 2. *"Can you help me debug this race condition in the payment service?"* — 你能帮我调试支付服务里的这个竞态条件吗？
-   ![[audio/深夜紧急部署/debug_ex2.mp3]]
+   ![[深夜紧急部署/debug_ex2.mp3]]
 
 ### Dialogue
 **A:** Can you come look at this? I've been debugging for two hours.  
@@ -120,7 +120,7 @@ scenario_icon: "🔥"
 
 ### Shadowing Sentence
 > *"I spent three hours debugging the null pointer exception."*  
-> ![[audio/深夜紧急部署/debug_shadow.mp3]]
+> ![[深夜紧急部署/debug_shadow.mp3]]
 
 ---
 
@@ -128,7 +128,7 @@ scenario_icon: "🔥"
 
 ### Pronunciation
 /kəmˈpaɪl/
-![[audio/深夜紧急部署/compile.mp3]]
+![[深夜紧急部署/compile.mp3]]
 
 ### Meaning
 编译 (verb)
@@ -147,9 +147,9 @@ scenario_icon: "🔥"
 
 ### Example Sentences
 1. *"The project failed to compile because of a missing dependency."* — 项目因缺少依赖而编译失败。
-   ![[audio/深夜紧急部署/compile_ex1.mp3]]
+   ![[深夜紧急部署/compile_ex1.mp3]]
 2. *"Make sure the code compiles before you submit a pull request."* — 提交 PR 前确保代码能编译通过。
-   ![[audio/深夜紧急部署/compile_ex2.mp3]]
+   ![[深夜紧急部署/compile_ex2.mp3]]
 
 ### Dialogue
 **A:** Why is the build failing?  
@@ -168,7 +168,7 @@ scenario_icon: "🔥"
 
 ### Shadowing Sentence
 > *"Make sure the code compiles before you submit a pull request."*  
-> ![[audio/深夜紧急部署/compile_shadow.mp3]]
+> ![[深夜紧急部署/compile_shadow.mp3]]
 
 ---
 
@@ -176,7 +176,7 @@ scenario_icon: "🔥"
 
 ### Pronunciation
 /ˈɑːptɪmaɪz/
-![[audio/深夜紧急部署/optimize.mp3]]
+![[深夜紧急部署/optimize.mp3]]
 
 ### Meaning
 优化 (verb)
@@ -195,9 +195,9 @@ scenario_icon: "🔥"
 
 ### Example Sentences
 1. *"We need to optimize the database query to reduce response time."* — 我们需要优化数据库查询以减少响应时间。
-   ![[audio/深夜紧急部署/optimize_ex1.mp3]]
+   ![[深夜紧急部署/optimize_ex1.mp3]]
 2. *"The team is working to optimize the API endpoint for better performance."* — 团队正在优化 API 端点以提升性能。
-   ![[audio/深夜紧急部署/optimize_ex2.mp3]]
+   ![[深夜紧急部署/optimize_ex2.mp3]]
 
 ### Dialogue
 **A:** The endpoint is too slow. Can you optimize it?  
@@ -217,7 +217,7 @@ scenario_icon: "🔥"
 
 ### Shadowing Sentence
 > *"We need to optimize the database query to reduce response time."*  
-> ![[audio/深夜紧急部署/optimize_shadow.mp3]]
+> ![[深夜紧急部署/optimize_shadow.mp3]]
 
 ---
 
@@ -225,7 +225,7 @@ scenario_icon: "🔥"
 
 ### Pronunciation
 /ˈɪntɪɡreɪt/
-![[audio/深夜紧急部署/integrate.mp3]]
+![[深夜紧急部署/integrate.mp3]]
 
 ### Meaning
 集成，整合 (verb)
@@ -244,9 +244,9 @@ scenario_icon: "🔥"
 
 ### Example Sentences
 1. *"We need to integrate the new payment gateway before the end of the sprint."* — 我们需要在 sprint 结束前集成新的支付网关。
-   ![[audio/深夜紧急部署/integrate_ex1.mp3]]
+   ![[深夜紧急部署/integrate_ex1.mp3]]
 2. *"The microservices don't integrate well with each other yet."* — 这些微服务之间的集成还不够顺畅。
-   ![[audio/深夜紧急部署/integrate_ex2.mp3]]
+   ![[深夜紧急部署/integrate_ex2.mp3]]
 
 ### Dialogue
 **A:** Does the new module integrate with our existing auth system?  
@@ -265,7 +265,7 @@ scenario_icon: "🔥"
 
 ### Shadowing Sentence
 > *"We need to integrate the new payment gateway before the end of the sprint."*  
-> ![[audio/深夜紧急部署/integrate_shadow.mp3]]
+> ![[深夜紧急部署/integrate_shadow.mp3]]
 
 ---
 
@@ -277,4 +277,4 @@ scenario_icon: "🔥"
 > **A:** Great. Make sure it integrates with the existing services before we push to prod.  
 > **B:** Got it. I'll verify everything and then deploy.  
 > **A:** I'll notify the team. Let's get this done.
-> ![[audio/深夜紧急部署/dialogue.mp3]]
+> ![[深夜紧急部署/dialogue.mp3]]
