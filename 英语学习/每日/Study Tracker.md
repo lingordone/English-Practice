@@ -4,7 +4,7 @@ total_vocab: 5
 current_streak: 1
 longest_streak: 1
 last_checkin_date: "2026-07-01"
-completed_scenarios: ["Development-Workflow"]
+completed_scenarios: ["The Late-Night Emergency Deploy"]
 phase: 1
 week: 1
 day: 1
