@@ -1,71 +1,77 @@
 # Vocabulary Bank
 
-## ✅ Block 1: Greetings & Introductions (Phase 1)
-- ✅ hello /həˈloʊ/ — 你好 (interjection)
-- ✅ hi /haɪ/ — 嗨 (interjection)
-- ✅ name /neɪm/ — 名字 (noun)
-- ✅ my /maɪ/ — 我的 (pronoun)
-- ✅ your /jɔːr/ — 你的，你们的 (pronoun)
+## Block 1 — Greetings (问候)
+- **hello** /həˈloʊ/ — 你好
+- **goodbye** /ɡʊdˈbaɪ/ — 再见
+- **name** /neɪm/ — 名字
+- **friend** /frend/ — 朋友
+- **meet** /miːt/ — 遇见，见面
+✅ Used in Day 1
 
-## ✅ Block 2: Family & Home (Phase 1)
-- ✅ mother /ˈmʌðər/ — 母亲 (noun)
-- ✅ father /ˈfɑːðər/ — 父亲 (noun)
-- ✅ sister /ˈsɪstər/ — 姐妹 (noun)
-- ✅ brother /ˈbrʌðər/ — 兄弟 (noun)
-- ✅ home /hoʊm/ — 家 (noun)
+## Block 2 — Family (家庭)
+- **mother** /ˈmʌðər/ — 母亲
+- **father** /ˈfɑːðər/ — 父亲
+- **sister** /ˈsɪstər/ — 姐妹
+- **brother** /ˈbrʌðər/ — 兄弟
+- **family** /ˈfæməli/ — 家庭
+✅ Used in Day 1
 
-## ✅ Block 3: Numbers & Age (Phase 1)
-- ✅ one /wʌn/ — 一 (number)
-- ✅ two /tuː/ — 二 (number)
-- ✅ three /θriː/ — 三 (number)
-- ✅ old /oʊld/ — 老的，...岁 (adjective)
-- ✅ year /jɪr/ — 年，岁 (noun)
+## Block 3 — Numbers & Age (数字与年龄)
+- **one** /wʌn/ — 一
+- **two** /tuː/ — 二
+- **three** /θriː/ — 三
+- **old** /oʊld/ — 老的，...岁
+- **year** /jɪr/ — 年，岁
+✅ Used in Day 1
 
-## ✅ Block 4: Daily Routines (Phase 1)
-- ✅ get up /ɡɛt ʌp/ — 起床 (verb phrase)
-- ✅ eat /iːt/ — 吃 (verb)
-- ✅ drink /drɪŋk/ — 喝 (verb)
-- ✅ go /ɡoʊ/ — 去 (verb)
-- ✅ school /skuːl/ — 学校 (noun)
+## Block 4 — Weather (天气)
+- **sun** /sʌn/ — 太阳，阳光
+- **rain** /reɪn/ — 雨，下雨
+- **cold** /koʊld/ — 冷的
+- **hot** /hɒt/ — 热的
+- **weather** /ˈweðər/ — 天气
+✅ Used in Day 1
 
-## ✅ Block 5: Weather & Seasons (Phase 1)
-- ✅ hot /hɒt/ — 热的 (adjective)
-- ✅ cold /koʊld/ — 冷的 (adjective)
-- ✅ rain /reɪn/ — 雨，下雨 (noun/verb)
-- ✅ sun /sʌn/ — 太阳 (noun)
-- ✅ day /deɪ/ — 天，白天 (noun)
+## Block 5 — At Breakfast (早餐时间)
+- **eat** /iːt/ — 吃
+- **drink** /drɪŋk/ — 喝
+- **milk** /mɪlk/ — 牛奶
+- **bread** /bred/ — 面包
+- **egg** /eɡ/ — 鸡蛋
+✅ Used in Day 1
 
-## ✅ Block 6: Food & Drinks (Phase 1)
-- ✅ rice /raɪs/ — 米饭 (noun)
-- ✅ bread /brɛd/ — 面包 (noun)
-- ✅ milk /mɪlk/ — 牛奶 (noun)
-- ✅ egg /ɛɡ/ — 鸡蛋 (noun)
-- ✅ water /ˈwɔːtər/ — 水 (noun)
+## Block 6 — Colors (颜色)
+- **red** /red/ — 红色
+- **blue** /bluː/ — 蓝色
+- **green** /ɡriːn/ — 绿色
+- **white** /waɪt/ — 白色
+- **black** /blæk/ — 黑色
+✅ Used in Day 2
 
-## Block 7: Colors & Descriptions (Phase 1)
-- red /rɛd/ — 红色 (adjective/noun)
-- blue /bluː/ — 蓝色 (adjective/noun)
-- big /bɪɡ/ — 大的 (adjective)
-- small /smɔːl/ — 小的 (adjective)
-- new /njuː/ — 新的 (adjective)
+## Block 7 — School (学校)
+- **book** /bʊk/ — 书
+- **teacher** /ˈtiːtʃər/ — 老师
+- **student** /ˈstuːdənt/ — 学生
+- **class** /klæs/ — 班级，课
+- **school** /skuːl/ — 学校
 
-## Block 8: Animals & Nature (Phase 1)
-- cat /kæt/ — 猫 (noun)
-- dog /dɔːɡ/ — 狗 (noun)
-- fish /fɪʃ/ — 鱼 (noun)
-- bird /bɜːrd/ — 鸟 (noun)
-- tree /triː/ — 树 (noun)
+## Block 8 — Animals (动物)
+- **cat** /kæt/ — 猫
+- **dog** /dɒɡ/ — 狗
+- **bird** /bɜːrd/ — 鸟
+- **fish** /fɪʃ/ — 鱼
+- **pet** /pet/ — 宠物
 
-## Block 9: Body & Health (Phase 1)
-- head /hɛd/ — 头 (noun)
-- hand /hænd/ — 手 (noun)
-- eye /aɪ/ — 眼睛 (noun)
-- mouth /maʊθ/ — 嘴 (noun)
-- foot /fʊt/ — 脚 (noun)
+## Block 9 — Body (身体)
+- **hand** /hænd/ — 手
+- **head** /hed/ — 头
+- **eye** /aɪ/ — 眼睛
+- **ear** /ɪr/ — 耳朵
+- **mouth** /maʊθ/ — 嘴
 
-## Block 10: School & Work (Phase 1)
-- book /bʊk/ — 书 (noun)
-- pen /pɛn/ — 钢笔 (noun)
-- teacher /ˈtiːtʃər/ — 老师 (noun)
-- student /ˈstuːdənt/ — 学生 (noun)
-- friend /frɛnd/ — 朋友 (noun)
+## Block 10 — Food (食物)
+- **rice** /raɪs/ — 米饭
+- **water** /ˈwɔːtər/ — 水
+- **apple** /ˈæpəl/ — 苹果
+- **cake** /keɪk/ — 蛋糕
+- **tea** /tiː/ — 茶
