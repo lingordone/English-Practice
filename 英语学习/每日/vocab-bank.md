@@ -6,7 +6,7 @@
 - **name** /neɪm/ — 名字
 - **friend** /frend/ — 朋友
 - **meet** /miːt/ — 遇见，见面
-✅ Used in Day 1
+✅ Block 1
 
 ## Block 2 — Family (家庭)
 - **mother** /ˈmʌðər/ — 母亲
@@ -14,7 +14,7 @@
 - **sister** /ˈsɪstər/ — 姐妹
 - **brother** /ˈbrʌðər/ — 兄弟
 - **family** /ˈfæməli/ — 家庭
-✅ Used in Day 1
+✅ Block 2
 
 ## Block 3 — Numbers & Age (数字与年龄)
 - **one** /wʌn/ — 一
@@ -22,7 +22,7 @@
 - **three** /θriː/ — 三
 - **old** /oʊld/ — 老的，...岁
 - **year** /jɪr/ — 年，岁
-✅ Used in Day 1
+✅ Block 3
 
 ## Block 4 — Weather (天气)
 - **sun** /sʌn/ — 太阳，阳光
@@ -30,7 +30,7 @@
 - **cold** /koʊld/ — 冷的
 - **hot** /hɒt/ — 热的
 - **weather** /ˈweðər/ — 天气
-✅ Used in Day 1
+✅ Block 4
 
 ## Block 5 — At Breakfast (早餐时间)
 - **eat** /iːt/ — 吃
@@ -38,7 +38,7 @@
 - **milk** /mɪlk/ — 牛奶
 - **bread** /bred/ — 面包
 - **egg** /eɡ/ — 鸡蛋
-✅ Used in Day 1
+✅ Block 5
 
 ## Block 6 — Colors (颜色)
 - **red** /red/ — 红色
@@ -46,7 +46,7 @@
 - **green** /ɡriːn/ — 绿色
 - **white** /waɪt/ — 白色
 - **black** /blæk/ — 黑色
-✅ Used in Day 2
+✅ Block 6
 
 ## Block 7 — School (学校)
 - **book** /bʊk/ — 书
