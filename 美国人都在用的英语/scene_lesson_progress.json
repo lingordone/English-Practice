@@ -1,8 +1,8 @@
 {
   "scene_index": 0,
-  "section": "B",
-  "total_lessons": 2,
-  "last_lesson_date": "2026-09-18",
+  "section": "C",
+  "total_lessons": 3,
+  "last_lesson_date": "2026-10-09",
   "last_status": "completed",
   "scene_order": [
     "subway",
@@ -169,6 +169,34 @@
       ],
       "audio_count": 61,
       "lesson_file": "Day2-Subway-Station-B.md"
+    },
+    "2026-10-09": {
+      "scene": "subway",
+      "section": "C",
+      "words": [
+        "passenger",
+        "conductor",
+        "driver",
+        "inspector",
+        "staff",
+        "guard",
+        "tourist",
+        "officer",
+        "operator",
+        "personnel",
+        "guide",
+        "agent",
+        "manager",
+        "cashier",
+        "clerk",
+        "porter",
+        "messenger",
+        "customer",
+        "mechanic",
+        "engineer"
+      ],
+      "audio_count": 61,
+      "lesson_file": "Day3-Subway-Station-C.md"
     }
   }
 }
