@@ -1,8 +1,8 @@
 {
   "scene_index": 0,
-  "section": "C",
-  "total_lessons": 3,
-  "last_lesson_date": "2026-10-09",
+  "section": "D",
+  "total_lessons": 4,
+  "last_lesson_date": "2026-10-11",
   "last_status": "completed",
   "scene_order": [
     "subway",
@@ -197,6 +197,34 @@
       ],
       "audio_count": 61,
       "lesson_file": "Day3-Subway-Station-C.md"
+    },
+    "2026-10-11": {
+      "scene": "subway",
+      "section": "D",
+      "words": [
+        "ticket",
+        "cash",
+        "coin",
+        "card",
+        "pass",
+        "token",
+        "wallet",
+        "purse",
+        "bag",
+        "luggage",
+        "suitcase",
+        "phone",
+        "mobile",
+        "map",
+        "schedule",
+        "receipt",
+        "bottle",
+        "umbrella",
+        "newspaper",
+        "magazine"
+      ],
+      "audio_count": 61,
+      "lesson_file": "Day4-Subway-Station-D.md"
     }
   }
 }
