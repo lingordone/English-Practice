@@ -1,8 +1,8 @@
 {
-  "scene_index": 0,
-  "section": "D",
-  "total_lessons": 4,
-  "last_lesson_date": "2026-10-11",
+  "scene_index": 1,
+  "section": "A",
+  "total_lessons": 5,
+  "last_lesson_date": "2026-10-12",
   "last_status": "completed",
   "scene_order": [
     "subway",
@@ -110,7 +110,12 @@
   "scene_word_indices": {
     "subway": {
       "A": 20,
-      "B": 20
+      "B": 20,
+      "C": 20,
+      "D": 20
+    },
+    "railway": {
+      "A": 20
     }
   },
   "daily_log": {
@@ -225,6 +230,34 @@
       ],
       "audio_count": 61,
       "lesson_file": "Day4-Subway-Station-D.md"
+    },
+    "2026-10-12": {
+      "scene": "railway",
+      "section": "A",
+      "words": [
+        "arrive",
+        "depart",
+        "board",
+        "alight",
+        "wait",
+        "check",
+        "book",
+        "purchase",
+        "pay",
+        "carry",
+        "weigh",
+        "complain",
+        "change",
+        "cancel",
+        "delay",
+        "start",
+        "stop",
+        "leave",
+        "reach",
+        "travel"
+      ],
+      "audio_count": 91,
+      "lesson_file": "Day5-Railway-Station-A.md"
     }
   }
 }
