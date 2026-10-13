@@ -1,8 +1,8 @@
 {
   "words_per_day": 20,
   "start_index": 1000,
-  "next_index": 1520,
-  "total_used": 520,
+  "next_index": 1540,
+  "total_used": 540,
   "min_word_length": 5,
   "used_indices": [
     1000,
@@ -524,7 +524,27 @@
     1516,
     1517,
     1518,
-    1519
+    1519,
+    1520,
+    1521,
+    1522,
+    1523,
+    1524,
+    1525,
+    1526,
+    1527,
+    1528,
+    1529,
+    1530,
+    1531,
+    1532,
+    1533,
+    1534,
+    1535,
+    1536,
+    1537,
+    1538,
+    1539
   ],
   "daily_log": {
     "15": {
@@ -1030,6 +1050,51 @@
         "worst",
         "worth",
         "wound"
+      ]
+    },
+    "26": {
+      "indices": [
+        1520,
+        1521,
+        1522,
+        1523,
+        1524,
+        1525,
+        1526,
+        1527,
+        1528,
+        1529,
+        1530,
+        1531,
+        1532,
+        1533,
+        1534,
+        1535,
+        1536,
+        1537,
+        1538,
+        1539
+      ],
+      "words": [
+        "wreck",
+        "wrist",
+        "yield",
+        "youth",
+        "Africa",
+        "August",
+        "Canada",
+        "Christ",
+        "Europe",
+        "France",
+        "French",
+        "Friday",
+        "German",
+        "Indian",
+        "Mister",
+        "Monday",
+        "aboard",
+        "abroad",
+        "absent"
       ]
     }
   }
