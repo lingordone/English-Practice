@@ -1,8 +1,8 @@
 {
   "scene_index": 1,
-  "section": "B",
-  "total_lessons": 6,
-  "last_lesson_date": "2026-10-13",
+  "section": "D",
+  "total_lessons": 7,
+  "last_lesson_date": "2026-10-14",
   "last_status": "completed",
   "scene_order": [
     "subway",
@@ -115,7 +115,10 @@
       "D": 20
     },
     "railway": {
-      "A": 20
+      "A": 20,
+      "B": 20,
+      "C": 20,
+      "D": 20
     }
   },
   "daily_log": {
@@ -258,6 +261,62 @@
       ],
       "audio_count": 91,
       "lesson_file": "Day5-Railway-Station-A.md"
+    },
+    "2026-10-13": {
+      "scene": "railway",
+      "section": "B",
+      "words": [
+        "station",
+        "platform",
+        "track",
+        "ticket office",
+        "waiting room",
+        "booking hall",
+        "information desk",
+        "ticket machine",
+        "luggage room",
+        "waiting area",
+        "departure board",
+        "arrival board",
+        "signal box",
+        "footbridge",
+        "underpass",
+        "car park",
+        "taxi rank",
+        "bus stop",
+        "entrance",
+        "exit"
+      ],
+      "audio_count": 61,
+      "lesson_file": "Day6-Railway-Station-B.md"
+    },
+    "2026-10-14": {
+      "scene": "railway",
+      "section": "C",
+      "words": [
+        "passenger",
+        "conductor",
+        "driver",
+        "guard",
+        "ticket inspector",
+        "station master",
+        "porter",
+        "ticket clerk",
+        "signal engineer",
+        "train driver",
+        "chef",
+        "waiter",
+        "cleaner",
+        "security guard",
+        "tourist",
+        "traveler",
+        "commuter",
+        "ticket agent",
+        "station staff",
+        "onboard attendant"
+      ],
+      "audio_count": 55,
+      "lesson_file": "Day7-Railway-Station-C.md"
     }
   }
 }
