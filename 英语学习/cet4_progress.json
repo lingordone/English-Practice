@@ -1,8 +1,8 @@
 {
   "words_per_day": 20,
   "start_index": 1000,
-  "next_index": 1540,
-  "total_used": 540,
+  "next_index": 1560,
+  "total_used": 560,
   "min_word_length": 5,
   "used_indices": [
     1000,
@@ -544,7 +544,27 @@
     1536,
     1537,
     1538,
-    1539
+    1539,
+    1540,
+    1541,
+    1542,
+    1543,
+    1544,
+    1545,
+    1546,
+    1547,
+    1548,
+    1549,
+    1550,
+    1551,
+    1552,
+    1553,
+    1554,
+    1555,
+    1556,
+    1557,
+    1558,
+    1559
   ],
   "daily_log": {
     "15": {
@@ -1076,6 +1096,7 @@
         1539
       ],
       "words": [
+        "wound",
         "wreck",
         "wrist",
         "yield",
@@ -1095,6 +1116,52 @@
         "aboard",
         "abroad",
         "absent"
+      ]
+    },
+    "27": {
+      "indices": [
+        1540,
+        1541,
+        1542,
+        1543,
+        1544,
+        1545,
+        1546,
+        1547,
+        1548,
+        1549,
+        1550,
+        1551,
+        1552,
+        1553,
+        1554,
+        1555,
+        1556,
+        1557,
+        1558,
+        1559
+      ],
+      "words": [
+        "absorb",
+        "accent",
+        "accept",
+        "access",
+        "accord",
+        "accuse",
+        "across",
+        "action",
+        "active",
+        "actual",
+        "adjust",
+        "admire",
+        "adverb",
+        "advice",
+        "advise",
+        "affair",
+        "affect",
+        "affirm",
+        "afford",
+        "afraid"
       ]
     }
   }
