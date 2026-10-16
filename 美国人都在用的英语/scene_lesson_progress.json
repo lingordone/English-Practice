@@ -1,8 +1,8 @@
 {
   "scene_index": 2,
-  "section": "A",
-  "total_lessons": 8,
-  "last_lesson_date": "2026-10-15",
+  "section": "B",
+  "total_lessons": 9,
+  "last_lesson_date": "2026-10-16",
   "last_status": "completed",
   "scene_order": [
     "subway",
@@ -317,6 +317,34 @@
       ],
       "audio_count": 55,
       "lesson_file": "Day7-Railway-Station-C.md"
+    },
+    "2026-10-16": {
+      "scene": "bus_station",
+      "section": "A",
+      "words": [
+        "ride",
+        "drive",
+        "board",
+        "alight",
+        "catch",
+        "miss",
+        "queue",
+        "wait",
+        "pay",
+        "stop",
+        "start",
+        "transfer",
+        "overtake",
+        "brake",
+        "honk",
+        "ring",
+        "press",
+        "request",
+        "announce",
+        "operate"
+      ],
+      "audio_count": 101,
+      "lesson_file": "Day9-Bus-Station-A.md"
     }
   }
 }
