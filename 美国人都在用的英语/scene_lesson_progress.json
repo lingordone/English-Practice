@@ -1,8 +1,8 @@
 {
   "scene_index": 2,
-  "section": "B",
-  "total_lessons": 9,
-  "last_lesson_date": "2026-10-16",
+  "section": "C",
+  "total_lessons": 10,
+  "last_lesson_date": "2026-10-17",
   "last_status": "completed",
   "scene_order": [
     "subway",
@@ -345,6 +345,34 @@
       ],
       "audio_count": 101,
       "lesson_file": "Day9-Bus-Station-A.md"
+    },
+    "2026-10-17": {
+      "scene": "bus_station",
+      "section": "B",
+      "words": [
+        "terminal",
+        "shelter",
+        "depot",
+        "garage",
+        "bay",
+        "rank",
+        "hub",
+        "lounge",
+        "kiosk",
+        "booth",
+        "portal",
+        "lane",
+        "curb",
+        "stand",
+        "restroom",
+        "fountain",
+        "bulletin",
+        "concourse",
+        "canopy",
+        "signpost"
+      ],
+      "audio_count": 61,
+      "lesson_file": "Day10-Bus-Station-B.md"
     }
   }
 }
