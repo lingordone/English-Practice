@@ -1,8 +1,8 @@
 {
   "words_per_day": 20,
   "start_index": 1000,
-  "next_index": 1600,
-  "total_used": 600,
+  "next_index": 1620,
+  "total_used": 620,
   "min_word_length": 5,
   "used_indices": [
     1000,
@@ -604,7 +604,27 @@
     1596,
     1597,
     1598,
-    1599
+    1599,
+    1600,
+    1601,
+    1602,
+    1603,
+    1604,
+    1605,
+    1606,
+    1607,
+    1608,
+    1609,
+    1610,
+    1611,
+    1612,
+    1613,
+    1614,
+    1615,
+    1616,
+    1617,
+    1618,
+    1619
   ],
   "daily_log": {
     "15": {
@@ -1294,6 +1314,52 @@
         "banana",
         "banner",
         "barber"
+      ]
+    },
+    "30": {
+      "indices": [
+        1600,
+        1601,
+        1602,
+        1603,
+        1604,
+        1605,
+        1606,
+        1607,
+        1608,
+        1609,
+        1610,
+        1611,
+        1612,
+        1613,
+        1614,
+        1615,
+        1616,
+        1617,
+        1618,
+        1619
+      ],
+      "words": [
+        "barely",
+        "barrel",
+        "basket",
+        "battle",
+        "beauty",
+        "become",
+        "before",
+        "beggar",
+        "behalf",
+        "behave",
+        "behind",
+        "belief",
+        "belong",
+        "beside",
+        "betray",
+        "better",
+        "beyond",
+        "bitter",
+        "bloody",
+        "border"
       ]
     }
   }
