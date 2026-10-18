@@ -1,8 +1,8 @@
 {
   "scene_index": 2,
-  "section": "C",
-  "total_lessons": 10,
-  "last_lesson_date": "2026-10-17",
+  "section": "D",
+  "total_lessons": 11,
+  "last_lesson_date": "2026-10-18",
   "last_status": "completed",
   "scene_order": [
     "subway",
@@ -373,6 +373,34 @@
       ],
       "audio_count": 61,
       "lesson_file": "Day10-Bus-Station-B.md"
+    },
+    "2026-10-18": {
+      "scene": "bus_station",
+      "section": "C",
+      "words": [
+        "vendor",
+        "hiker",
+        "backpacker",
+        "sightseer",
+        "pickpocket",
+        "beggar",
+        "wheelchair_user",
+        "parent",
+        "toddler",
+        "teenager",
+        "receptionist",
+        "dispatcher",
+        "fare_inspector",
+        "informant",
+        "lost_child",
+        "companion",
+        "straggler",
+        "bystander",
+        "scammer",
+        "pedestrian"
+      ],
+      "audio_count": 65,
+      "lesson_file": "Day11-Bus-Station-C.md"
     }
   }
 }
