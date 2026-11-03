@@ -1,8 +1,8 @@
 {
-  "scene_index": 2,
-  "section": "D",
-  "total_lessons": 12,
-  "last_lesson_date": "2026-11-03",
+  "scene_index": 3,
+  "section": "B",
+  "total_lessons": 13,
+  "last_lesson_date": "2026-11-04",
   "last_status": "completed",
   "scene_order": [
     "subway",
@@ -435,6 +435,34 @@
       ],
       "audio_count": 101,
       "lesson_file": "Day12-Bus-Station-D.md"
+    },
+    "2026-11-04": {
+      "scene": "airport",
+      "section": "A",
+      "words": [
+        "land",
+        "fly",
+        "reserve",
+        "pack",
+        "declare",
+        "inspect",
+        "claim",
+        "load",
+        "unload",
+        "patrol",
+        "page",
+        "stamp",
+        "fasten",
+        "unfasten",
+        "refuel",
+        "taxi",
+        "approach",
+        "descend",
+        "ascend",
+        "cruise"
+      ],
+      "audio_count": 61,
+      "lesson_file": "Day32-Airport-Station-A.md"
     }
   }
 }
