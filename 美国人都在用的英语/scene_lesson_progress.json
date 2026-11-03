@@ -1,8 +1,8 @@
 {
   "scene_index": 2,
   "section": "D",
-  "total_lessons": 11,
-  "last_lesson_date": "2026-10-18",
+  "total_lessons": 12,
+  "last_lesson_date": "2026-11-03",
   "last_status": "completed",
   "scene_order": [
     "subway",
@@ -115,6 +115,12 @@
       "D": 20
     },
     "railway": {
+      "A": 20,
+      "B": 20,
+      "C": 20,
+      "D": 20
+    },
+    "bus_station": {
       "A": 20,
       "B": 20,
       "C": 20,
@@ -401,6 +407,34 @@
       ],
       "audio_count": 65,
       "lesson_file": "Day11-Bus-Station-C.md"
+    },
+    "2026-11-03": {
+      "scene": "bus_station",
+      "section": "D",
+      "words": [
+        "backpack",
+        "briefcase",
+        "duffel",
+        "handbag",
+        "charger",
+        "earbuds",
+        "headphones",
+        "sunglasses",
+        "raincoat",
+        "scarf",
+        "gloves",
+        "beanie",
+        "cap",
+        "watch",
+        "necklace",
+        "bracelet",
+        "snack",
+        "sandwich",
+        "coffee",
+        "juice"
+      ],
+      "audio_count": 101,
+      "lesson_file": "Day12-Bus-Station-D.md"
     }
   }
 }
