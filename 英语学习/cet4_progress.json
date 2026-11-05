@@ -1,8 +1,8 @@
 {
   "words_per_day": 20,
   "start_index": 1000,
-  "next_index": 1660,
-  "total_used": 660,
+  "next_index": 1680,
+  "total_used": 680,
   "min_word_length": 5,
   "used_indices": [
     1000,
@@ -664,7 +664,27 @@
     1656,
     1657,
     1658,
-    1659
+    1659,
+    1660,
+    1661,
+    1662,
+    1663,
+    1664,
+    1665,
+    1666,
+    1667,
+    1668,
+    1669,
+    1670,
+    1671,
+    1672,
+    1673,
+    1674,
+    1675,
+    1676,
+    1677,
+    1678,
+    1679
   ],
   "daily_log": {
     "15": {
@@ -1446,6 +1466,52 @@
         "casual",
         "cattle",
         "cellar"
+      ]
+    },
+    "32": {
+      "indices": [
+        1660,
+        1661,
+        1662,
+        1663,
+        1664,
+        1665,
+        1666,
+        1667,
+        1668,
+        1669,
+        1670,
+        1671,
+        1672,
+        1673,
+        1674,
+        1675,
+        1676,
+        1677,
+        1678,
+        1679
+      ],
+      "words": [
+        "cement",
+        "center",
+        "centre",
+        "chance",
+        "change",
+        "charge",
+        "cheese",
+        "cheque",
+        "cherry",
+        "choice",
+        "choose",
+        "church",
+        "cinema",
+        "circle",
+        "clause",
+        "clever",
+        "client",
+        "clinic",
+        "clothe",
+        "cloudy"
       ]
     }
   }
