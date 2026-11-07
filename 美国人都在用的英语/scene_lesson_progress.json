@@ -1,8 +1,8 @@
 {
   "scene_index": 3,
-  "section": "C",
-  "total_lessons": 14,
-  "last_lesson_date": "2026-11-07",
+  "section": "D",
+  "total_lessons": 15,
+  "last_lesson_date": "2026-11-08",
   "last_status": "completed",
   "scene_order": [
     "subway",
@@ -491,6 +491,34 @@
       ],
       "audio_count": 61,
       "lesson_file": "Day35-Airport-Station-B.md"
+    },
+    "2026-11-08": {
+      "scene": "airport",
+      "section": "C",
+      "words": [
+        "pilot",
+        "captain",
+        "crew",
+        "steward",
+        "stewardess",
+        "marshal",
+        "technician",
+        "visitor",
+        "janitor",
+        "co-pilot",
+        "navigator",
+        "redcap",
+        "skycap",
+        "courier",
+        "greeter",
+        "loadmaster",
+        "fueler",
+        "ground crew",
+        "baggage handler",
+        "controller"
+      ],
+      "audio_count": 61,
+      "lesson_file": "Day36-Airport-Station-C.md"
     }
   }
 }
