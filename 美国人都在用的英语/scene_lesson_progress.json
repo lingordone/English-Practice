@@ -1,8 +1,8 @@
 {
-  "scene_index": 3,
-  "section": "D",
-  "total_lessons": 15,
-  "last_lesson_date": "2026-11-08",
+  "scene_index": 4,
+  "section": "A",
+  "total_lessons": 16,
+  "last_lesson_date": "2026-11-09",
   "last_status": "completed",
   "scene_order": [
     "subway",
@@ -519,6 +519,34 @@
       ],
       "audio_count": 61,
       "lesson_file": "Day36-Airport-Station-C.md"
+    },
+    "2026-11-09": {
+      "scene": "airport",
+      "section": "D",
+      "words": [
+        "boarding pass",
+        "luggage tag",
+        "visa",
+        "seatbelt",
+        "overhead bin",
+        "carry-on",
+        "beverage",
+        "duty-free",
+        "headset",
+        "adapter",
+        "eye mask",
+        "earplugs",
+        "travel pillow",
+        "baggage cart",
+        "luggage scale",
+        "passport cover",
+        "travel adapter",
+        "luggage strap",
+        "luggage cover",
+        "luggage lock"
+      ],
+      "audio_count": 61,
+      "lesson_file": "Day37-Airport-Station-D.md"
     }
   }
 }
